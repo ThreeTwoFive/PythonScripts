@@ -12,5 +12,3 @@ Notes
 
 -Only working on 'flat' json structure. Can add method to flatten json before parsing.
 -CSV ordering is simply the order in which the json keys first appear. Currently ordering stored in map '["key1": 1 (csvOrder), "key2": 2, ...]' so it can be easily changed to desired csv ordering
-
--Any questions, email me at: david.truong510@gmail.com
